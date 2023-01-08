@@ -65,7 +65,7 @@ This project has the following dependencies:
 Add the following dependency to your Package.swift file:
 
 ```swift
-.package(url: "https://github.com/chorim/CombineCocoa.git", from: "0.1.0")
+.package(url: "https://github.com/chorim/CombineInterception.git", from: "0.1.0")
 ```
 
 ## Acknowledgments
