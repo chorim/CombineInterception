@@ -76,4 +76,4 @@ Add the following dependency to your Package.swift file:
 
 MIT, See the [LICENSE](LICENSE) file. 
 
-The Apple logo and the Combine framework are property of Apple Inc.
+The Combine framework are property of Apple Inc.
