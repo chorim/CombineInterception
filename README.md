@@ -1,5 +1,10 @@
 # CombineInterception
 
+## WARNING
+### If that [PR](https://github.com/CombineCommunity/CombineCocoa/pull/88) is merged, it will add functionality to CombineCocoa.
+### Please use CombineCocoa in future.
+
+## 
 <p align="center">
 <a href="https://github.com/apple/swift-package-manager" target="_blank"><img src="https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg" alt="CombineCocoa supports Swift Package Manager (SPM)"></a>
 <img src="https://img.shields.io/badge/platforms-iOS%2013.0-333333.svg" />
